@@ -49,11 +49,9 @@ a{
 }
 .cy{
     text-align: center;
-    margin-bottom: 5px;
-    margin-top: 20px;
+   margin-top: 150px;
     font-size: 32px;
-    font-weight: 500;
-    margin-left: 80px;   
+    font-weight: bolder;
     }
     .dy{
     text-align: left;
